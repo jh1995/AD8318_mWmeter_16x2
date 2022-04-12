@@ -1,7 +1,7 @@
 # AD8318_mWmeter_16x2
 Arduino based milliWatt meter with AD8318 and I2C 16x2 display.
 
-This in an adaptation for AD8318 by Paolo IK1ZYW of PA0RWE work originally meant for AD8317.
+This in an adaptation for AD8318 by Paolo IK1ZYW of PA0RWE work (https://pa0rwe.nl/?page_id=356) originally meant for AD8317.
 
 CHANGES with reference to PA0RWE version:
 * Slope and calibration points have been adjusted from AD8317 to AD8318.
